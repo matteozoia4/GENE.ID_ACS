@@ -1,4 +1,4 @@
-# Mouse-Heart-E11.5-TFs-Motifs-Annotations_COLOR-CONS.SCORE-ON-SCREENING-CONS.SCORE-ON
+# Mouse-Heart-E11.5-TFs-Motifs-Annotations
 
 Annotations (mm10 genome) of TFs Motifs activs in Developmental Mouse Heart at E11.5
 
