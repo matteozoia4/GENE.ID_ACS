@@ -1,0 +1,10 @@
+track Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_TFs_Motifs_Annotations
+bigDataUrl 
+shortLabel SPECS:GENE.ID|COLOR:PHYLOP|FILTER:PHYLOP
+longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_E11.5_TFs_Motifs_Annotations_mm10_Mouse_Genome_reference
+useScore 1
+type bigBed 9 .
+    scoreFilter 0
+    scoreFilterLimits 0:1000
+    visibility squish
+    bedNameLabel Motif specs
